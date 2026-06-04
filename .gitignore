@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+
+# builds
+.next
+dist
+build
+out
+
+# turbo
+.turbo
+
+# env
+.env
+.env.*
+
+# logs
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode
+.idea
+
+# testing
+coverage
